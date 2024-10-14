@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
- <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>&nbsp
- <br>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
  <br>
