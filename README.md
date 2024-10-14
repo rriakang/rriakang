@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
  <br>
+ <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>&nbsp
 
