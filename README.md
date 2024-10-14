@@ -14,8 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20RIRAGIT&fontSize=90)
-
 <h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>&nbsp
+ <br>
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+ <br>
+ <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
+ <br>
+ <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>&nbsp
+
